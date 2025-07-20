@@ -16,3 +16,4 @@ llama_cpp_python
 sentence_transformers
 
 tqdm
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
